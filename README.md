@@ -92,8 +92,8 @@ Status.......... Building awesome AI projects...
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariharan-develop&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-develop&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hariharan-develop&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hariharan-develop&layout=compact&theme=radical" height="170"/>
 </p>
 
 <p align="center">
