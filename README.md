@@ -90,6 +90,10 @@ Status.......... Building awesome AI projects...
 > Loading GitHub data...
 > System Ready ✓
 ```
+```text
+...your terminal profile...
+```
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hariharan-develop&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-develop&layout=compact&theme=tokyonight" height="170"/>
@@ -98,5 +102,11 @@ Status.......... Building awesome AI projects...
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hariharan-develop&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hariharan-develop&color=blue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hariharan-develop.Hariharan-develop" />
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Hariharan-develop&color=blue)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hariharan-develop.Hariharan-develop)
