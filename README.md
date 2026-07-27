@@ -90,8 +90,13 @@ Status.......... Building awesome AI projects...
 > Loading GitHub data...
 > System Ready ✓
 ```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariharan-develop&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-develop&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hariharan-develop&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariharan-develop&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan-develop&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hariharan-develop&theme=tokyonight"/>
+</p>
 ![Profile Views](https://komarev.com/ghpvc/?username=Hariharan-develop&color=blue)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Hariharan-develop.Hariharan-develop)
